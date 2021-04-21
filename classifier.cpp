@@ -9,6 +9,10 @@ int main()
 		void train() {
 			printf("train");
 		}
+		void predict() {
+			printf("predict");
+		}
+	
 	};
 
 	return 0;
